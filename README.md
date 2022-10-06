@@ -8,7 +8,7 @@ This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?
 
 Elegant HTML, CSS and jQuery code!!
 
-I hope you like it, code it and [watch it](https://gustavolando.github.io/otSwitchOnOFFLightBulbWithSoundUsingHTMLCSSnJavaScript/) !
+I hope you like it, code it and [watch it](https://gustavolando.github.io/otSwitchOnOFFLightBulbWithSoundUsingHTMLCSSnJavaScript/)!
 
 ![Switch On Off Light Bulb With Sound using Html CSS & Javascript](https://gustavolando.github.io/otSwitchOnOFFLightBulbWithSoundUsingHTMLCSSnJavaScript/Switch%20On%20Off%20Light%20Bulb%20off.png)
 
