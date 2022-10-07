@@ -6,7 +6,7 @@ I practiced here shadows, linear-gradient, radial-gradient and a sound file.
 
 This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=OAgH_VMz08A)
 
-Elegant HTML, CSS and jQuery code!!
+Elegant HTML, CSS and vanilla js code!!
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/otSwitchOnOFFLightBulbWithSoundUsingHTMLCSSnJavaScript/)!
 
